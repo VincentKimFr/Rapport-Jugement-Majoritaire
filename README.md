@@ -1,6 +1,6 @@
 # Démonstration-Jugement-Majoritaire
 
-Ce rapport vise à poser les limites des méthodes de scrutin actuels pour départager des propositions ou candidats par une majorité de votants. Avant d’expliquer en quoi consiste le vote au jugement majoritaire (en attribuant des mentions à tout les candidats) et comment effectuer le dépouillement.
+Ce rapport vise à poser les limites des méthodes de scrutin actuels pour départager des propositions ou candidats par une majorité de votants. Avant d’expliquer en quoi consiste le vote au jugement majoritaire (en attribuant des mentions à tout les candidats), qui résouds ces limites, et comment effectuer le dépouillement.
 
 En annexe est détaillé entre autres comment l’on en viens à ces mentions là.
 
